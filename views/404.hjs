@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{ title }}</title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+  </head>
+  <body>
+    <div role="main">
+      <header>
+        <h1><a href="/">Pasta</a></h1>
+        <p class="blurb">Quickly view or store your text from your clipboard ♥</p>
+      <header>
+      <hr>
+        <section>
+          <h2>404</h2>
+          <p>Page or paste not found.</p>
+        </section>
+    </div>
+    <footer>
+      <hr>
+      <small class='disclaimer'>Pastes are not backed up and I do not take 
+        responsibility for their content.</small>
+      <small class='credit'>by <a href="http://halfmelt.com">halfmelt</a>.</small>
+    </footer>
+  </body>
+</html>
